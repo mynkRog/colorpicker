@@ -6,4 +6,5 @@ The React Color Picker is a web application built using React and Vite. It allow
 ### Features🛠️
 * Select colors from a color palette.
 * Preview selected colors in real-time.
+* Copy the selected color's hexadecimal value to the clipboard.
 * Responsive design for seamless usage on various devices.
